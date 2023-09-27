@@ -1,0 +1,8 @@
+[general]
+name=kvalidator
+description=This plugging validates raster and vector files in order to fit the necessities of k.lab.
+version=1.0
+qgisMinimumVersion=3.0
+author=Rubén Crespo Ceballos
+email=ruben.crespo@bc3research.org
+repository=https://github.com/Rubenturtle/kvalidator
